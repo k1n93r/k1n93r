@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @k1n93r
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
+const me = {
+	fullName: 'Hoang Tuan Kiet',
+	nickname: 'k1n93r',
+	age: 19,
+	gender: 'male',
+	occupation: 'Sophomore ',
+	skills: [ 'csharp', 'css', 'js', 'bash', 'git', 'cpp', 'unpack', 'security'],
+	email: 'k1n93r.information@gmail.com'
+};
