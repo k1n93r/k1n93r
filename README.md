@@ -7,15 +7,15 @@
 
 <br>
 
-🔭 I am Hoang Tuan Kiet, a student currently studying at Nha Trang University
+🔭 I'm Hoang Tuan Kiet, a student currently studying at Nha Trang University
 
-🧩Play boxing, listening to music, hacking and coding are what I am passionate about. Researching imformation security knowledges. I have learned a lot from exploiting vulnerabilities and participating in CTF contests
+🧩Play boxing, listening to music, hacking and coding are what I'm passionate about. Researching imformation security knowledges. I've learned a lot from exploiting vulnerabilities and participating in CTF contests
 
 🌱 I’m currently working on to brushing up my skills I’m currently learning data structures and algorithms
 
 🤝 I enjoy helping others and working well with a team. 
 
-📫 How to reach me: hoangtuankiet.info@gmail.com
+📫 How to reach me: hoangtuankiet.info@gmail.com - kietseo@gmail.com
 
 
 ⚡ Fun fact: There are over 5000 computer viruses released every month. And 70% of the creators of viruses have contracts with criminal organizations
